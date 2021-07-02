@@ -13,8 +13,7 @@ Avant de vous laisser télécharger nos codes, je tiens à vous prevenir sur le 
 
 - Un diagramme UML
 - Le code du jeu
-- Le code Qt de la fenêtre
-- Guide de jeu
+- Le code Qt de la fenêtre de jeu
 
 L'éxecutable du jeu se trouve sur https://www.mediafire.com/file/n48rlh72pvx1a6t/Street_FighTech.zip/file
 
